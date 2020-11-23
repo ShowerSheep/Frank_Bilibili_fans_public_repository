@@ -1,4 +1,4 @@
-Sublime Text Key
+# Sublime Text Key
 
 ```html
 ----- BEGIN LICENSE -----
