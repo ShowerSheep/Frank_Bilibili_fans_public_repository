@@ -8,4 +8,4 @@ b/s预备课购买链接：https://item.taobao.com/item.htm?ft=t&id=611976106964
 google drive：
 https://drive.google.com/drive/folders/1D75Uwu6zKnrOv4J6bboVTppQoW3P5RxF?usp=sharing
 
-注意第11节用的时另一种加密方式亲使用PotPlayer打开
+注意第11节用的时另一种加密方式请使用PotPlayer（可在群文件中找到安装包）打开
