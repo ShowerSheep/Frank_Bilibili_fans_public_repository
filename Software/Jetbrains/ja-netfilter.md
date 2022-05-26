@@ -10,7 +10,19 @@ https://zhile.io/2021/11/29/ja-netfilter-javaagent-lib.html
 
 热心大佬集成的懒人包，包含所有插件和配置，甚至有一键配置vmoptions脚本，真正开箱即用！
 
-https://jetbra.in/52c2a991-6278-42fa-8e91-aaa649bbdb7b.html
+https://jetbra.in/52c2a991-6278-42fa-8e91-aaa649bbdb7b.html（已挂）
+
+
+
+https://3.jetbra.in/
+
+
+
+You can also use the **Tor** to access this site, the domain is: yhyfmfpn364bmbx53cqay74bvrb4lt463vylfer3smbkfpa7fxgfd5id.onion
+
+
+
+
 
 使用方法：
 
